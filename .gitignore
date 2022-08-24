@@ -1,1 +1,10 @@
-!.**/*.cpp
+*/*.*
+*/*
+!*.cpp
+# test_helloworld/test.dSYM/Contents/Info.plist
+# test_helloworld/test
+in.txt
+out.txt
+# .vscode/
+# .vscode/tasks.json
+.vscode/tasks.json

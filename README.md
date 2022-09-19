@@ -1,2 +1,4 @@
 # codeforce
-codeforce,leetcode,luogu
+codeforce
+leetcode
+luogu

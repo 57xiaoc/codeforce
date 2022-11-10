@@ -7,8 +7,8 @@ int a[N];
 
 int main(){
     
-    // freopen("../in.txt","r",stdin);   //从文件mid.in里读取数据
-    // freopen("../out.txt","w",stdout);   //程序运行会创建文件mid.out将结果写入
+    freopen("../in.txt","r",stdin);   //从文件mid.in里读取数据
+    freopen("../out.txt","w",stdout);   //程序运行会创建文件mid.out将结果写入
     int n;
     cin>>n;
     for(int i = 1;i<=n;i++) cin>>a[i];
